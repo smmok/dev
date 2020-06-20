@@ -1,0 +1,8 @@
+Downloads
+The master sources are maintained in our git repository, which is accessible over the network and cloned on GitHub, at https://github.com/openssl/openssl. Bugs and pull patches (issues and pull requests) should be filed on the GitHub repo. Please familiarize yourself with the license.
+
+The table below lists the latest releases for every branch. (For an explanation of the numbering, see our release strategy.) All releases can be found at /source/old. A list of mirror sites can be found here.
+
+Note: The latest stable version is the 1.1.1 series. This is also our Long Term Support (LTS) version, supported until 11th September 2023. All other versions (including 1.1.0, 1.0.2, 1.0.0 and 0.9.8) are now out of support and should not be used. Users of these older versions are encourage to upgrade to 1.1.1 as soon as possible. Extended support for 1.0.2 to gain access to security fixes for that version is available.
+
+The OpenSSL FIPS Object Module 2.0 (FOM) is also available for download. It is no longer receiving updates. It must be used in conjunction with a FIPS capable version of OpenSSL (1.0.2 series). A new FIPS module is currently in development.

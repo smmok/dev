@@ -1,0 +1,15 @@
+Generator
+A generator is also an iterator, but its key feature is lazy evaluation
+ Lazy evaluation is a classic concept in computer science and has been adopted by many programming languages, such as Haskell
+ The core idea of lazy evaluation is call-by-need
+ Lazy evaluation can lead to a reduction in the memory footprint
+
+A generator is an iterator in the style of iterating by need
+ We won’t calculate and store the values at once but generate them on the fly when we’re iterating
+
+We have two ways to create a generator: by a generator expression or by a generator function
+
+A generator expression is similar to list comprehension — except we use ()
+ Since a generator is an iterator, we use the next function to get the next item:
+
+
