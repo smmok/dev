@@ -1,0 +1,233 @@
+pushing:6
+pushing:3
+pushing:4
+pushing:3
+pushing:14
+Dup:6 pushing:3
+pushing:17
+Dup:17 pushing:3
+pushing:2
+pushing:11
+Dup:14 pushing:8
+pushing:10
+pushing:16
+pushing:11
+pushing:4
+Dup:6 pushing:4
+Dup:14 Dup:17 pushing:15
+pushing:18
+pushing:2
+Dup:16 pushing:12
+pushing:10
+pushing:4
+pushing:2
+pushing:7
+pushing:11
+pushing:5
+pushing:11
+Dup:14 pushing:19
+Dup:17 Dup:17 Dup:17 Dup:14 pushing:1
+Dup:19 Dup:6 Dup:16 Dup:8 Dup:17 pushing:13
+pushing:0
+pushing:1
+Dup:19 pushing:4
+Dup:15 Dup:17 Dup:19 pushing:13
+pushing:0
+Dup:15 Dup:6 pushing:10
+pushing:0
+Dup:8 Dup:17 pushing:11
+pushing:13
+pushing:9
+Dup:6 pushing:13
+Dup:7 pushing:4
+pushing:10
+pushing:2
+Dup:6 pushing:10
+Dup:8 pushing:3
+Dup:19 pushing:5
+Dup:16 Dup:19 Dup:6 Dup:16 pushing:3
+pushing:1
+pushing:13
+pushing:2
+Dup:15 pushing:13
+Dup:18 pushing:1
+pushing:4
+Dup:19 Dup:9 pushing:2
+pushing:11
+pushing:3
+pushing:11
+Dup:17 Dup:16 Dup:19 pushing:2
+Dup:7 pushing:1
+Dup:9 Dup:17 Dup:9 pushing:12
+Dup:17 Dup:14 Dup:9 Dup:16 pushing:1
+Dup:6 pushing:0
+pushing:3
+pushing:0
+pushing:3
+Dup:19 Dup:14 pushing:1
+pushing:0
+Dup:18 pushing:1
+pushing:10
+pushing:1
+pushing:12
+Dup:14 pushing:12
+Dup:9 pushing:10
+pushing:12
+pushing:12
+Dup:17 pushing:13
+pushing:1
+Dup:15 pushing:2
+Dup:14 pushing:13
+Dup:17 pushing:4
+pushing:10
+Dup:18 pushing:11
+pushing:10
+pushing:2
+pushing:11
+Dup:14 pushing:1
+pushing:5
+Dup:15 pushing:2
+pushing:4
+Dup:17 pushing:13
+pushing:5
+Dup:9 Dup:7 Dup:18 Dup:19 Dup:17 pushing:10
+pushing:11
+Dup:15 pushing:3
+pushing:13
+pushing:11
+pushing:5
+Dup:8 pushing:4
+pushing:3
+pushing:12
+Dup:14 pushing:2
+pushing:3
+pushing:4
+pushing:4
+Dup:15 Dup:18 Dup:6 pushing:0
+Dup:14 Dup:8 pushing:4
+pushing:12
+pushing:1
+Dup:9 pushing:1
+Dup:8 Dup:7 pushing:0
+Dup:6 Dup:18 pushing:11
+pushing:2
+pushing:1
+pushing:5
+pushing:13
+Dup:7 pushing:13
+Dup:17 pushing:10
+pushing:5
+pushing:11
+pushing:13
+Dup:9 Dup:16 Dup:17 pushing:4
+Dup:15 pushing:3
+pushing:4
+pushing:10
+pushing:12
+Dup:9 pushing:2
+Dup:14 Dup:19 pushing:4
+pushing:3
+Dup:7 pushing:4
+Dup:9 pushing:5
+Dup:15 pushing:11
+Dup:6 pushing:0
+pushing:5
+Dup:14 Dup:14 pushing:2
+pushing:5
+Dup:19 Dup:14 Dup:18 Dup:9 pushing:11
+Dup:16 pushing:13
+Dup:7 pushing:0
+Dup:18 Dup:18 pushing:12
+Dup:8 pushing:1
+Dup:7 Dup:7 pushing:5
+pushing:10
+Dup:14 Dup:9 pushing:0
+Dup:19 pushing:5
+pushing:12
+Dup:6 Dup:6 Dup:17 pushing:1
+pushing:0
+Dup:19 Dup:6 Dup:19 Dup:14 pushing:4
+Dup:9 Dup:6 pushing:1
+pushing:2
+pushing:13
+pushing:1
+pushing:1
+pushing:11
+Dup:14 Dup:9 pushing:12
+pushing:1
+Dup:16 Dup:18 pushing:11
+pushing:11
+Dup:7 pushing:11
+pushing:11
+pushing:12
+pushing:3
+Dup:17 Dup:18 pushing:1
+Dup:19 Dup:18 pushing:1
+pushing:5
+Dup:18 Dup:15 pushing:10
+Dup:7 pushing:1
+pushing:11
+pushing:10
+Dup:15 pushing:13
+pushing:12
+Dup:7 Dup:7 pushing:1
+pushing:0
+Dup:8 Dup:18 Dup:18 pushing:0
+Dup:9 pushing:5
+pushing:12
+pushing:0
+Dup:18 Dup:16 Dup:18 Dup:16 Dup:17 Dup:17 Dup:15 Dup:18 pushing:2
+Dup:14 Dup:14 pushing:13
+pushing:2
+Dup:15 pushing:4
+pushing:12
+pushing:11
+Dup:17 pushing:5
+Dup:18 pushing:5
+Dup:6 Dup:18 pushing:13
+pushing:4
+Dup:16 Dup:14 Dup:14 pushing:2
+Dup:6 Dup:14 pushing:0
+pushing:2
+pushing:13
+Dup:17 Dup:19 pushing:10
+pushing:13
+Dup:17 pushing:13
+Dup:7 pushing:11
+Dup:6 Dup:9 Dup:7 pushing:11
+pushing:2
+Dup:19 Dup:9 Dup:7 Dup:17 Dup:14 Dup:14 Dup:16 Dup:8 Dup:18 pushing:13
+pushing:2
+pushing:13
+Dup:15 Dup:8 Dup:8 Dup:16 pushing:10
+pushing:1
+pushing:13
+pushing:10
+pushing:11
+Dup:6 Dup:8 pushing:5
+Dup:14 pushing:0
+pushing:11
+pushing:3
+Dup:8 pushing:3
+Dup:6 Dup:7 pushing:12
+pushing:13
+pushing:5
+Dup:7 Dup:8 pushing:1
+Dup:15 Dup:7 Dup:14 Dup:17 pushing:0
+pushing:10
+Dup:6 Dup:8 Dup:6 Dup:16 Dup:9 pushing:0
+Dup:7 pushing:1
+Dup:6 Dup:15 Dup:6 pushing:0
+[0]=[6 7 8 9 ]
+[1]=[14 15 16 17 18 19 ]
+[2]=[]
+[3]=[]
+[4]=[]
+[5]=[]
+[6]=[]
+[7]=[]
+[8]=[]
+[9]=[]
+Num of number generated=10
+Num of duplicates found=199
+count2=419

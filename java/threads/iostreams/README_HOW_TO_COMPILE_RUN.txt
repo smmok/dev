@@ -1,0 +1,6 @@
+javac -d . BufferedStreamCopyTest.java
+
+To run:
+java one.two.three.BufferedStreamCopyTest BufferedStreamCopyTest.java output.txt
+
+
